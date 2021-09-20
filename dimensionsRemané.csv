@@ -1,0 +1,72 @@
+﻿dimension;dimension 2
+Overarching;
+Value proposition;
+Value delivery;
+Value creation;
+Value capture;
+Hierarchichal impact;Overarching
+Degree of digitization;Overarching
+Product type;Value proposition
+Strategy for differentiation;Value proposition
+Target customers;Value delivery
+Value-delivery process;Value delivery
+Sourcing;Value creation
+Third parties involved;Value creation
+Value creation process;Value creation
+Revenue model;Value capture
+Pricing strategy;Value capture
+Direct profit effect;Value capture
+Prototypical pattern;Hierarchichal impact
+Solution pattern;Hierarchichal impact
+Purely digital;Degree of digitization
+Digitally enabled;Degree of digitization
+Not necessarily digital;Degree of digitization
+Physical;Product type
+Financial;Product type
+Human;Product type
+Intellectual property;Product type
+Hybrid;Product type
+Product type not specified;Product type
+Quality;Strategy for differentiation
+Customization;Strategy for differentiation
+Combination;Strategy for differentiation
+Access/ Convenience;Strategy for differentiation
+Price;Strategy for differentiation
+Network effects ;Strategy for differentiation
+No impact on differentiation;Strategy for differentiation
+Specific new customer segment;Target customers
+Lock-in existing customers;Target customers
+Other companies (B2B);Target customers
+No impact on target customers;Target customers
+Band and marketing;Value-delivery process
+Sales channel;Value-delivery process
+Sales model;Value-delivery process
+Customer relationship management;Value-delivery process
+No impact on delivery process;Value-delivery process
+Make;Sourcing
+Buy;Sourcing
+No impact on sourcing;Sourcing
+Suppliers;Third parties involved
+Customers;Third parties involved
+Competitors;Third parties involved
+Multiple parties;Third parties involved
+No impact on third parties involved;Third parties involved
+Research and design;Value creation process
+Supply;Value creation process
+Production;Value creation process
+Multiple steps;Value creation process
+No impact on creation process;Value creation process
+Sell;Revenue model
+Lend;Revenue model
+Intermediate;Revenue model
+Advertising;Revenue model
+No impact on revenue model;Revenue model
+Premium;Pricing strategy
+Cheap;Pricing strategy
+Dynamic;Pricing strategy
+Non-transparent;Pricing strategy
+No impact on pricing strategy;Pricing strategy
+Increase revenue;Direct profit effect
+Reduce cost;Direct profit effect
+Multiple effects;Direct profit effect
+No direct profit impact;Direct profit effect
